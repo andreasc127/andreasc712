@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 29 Sep 2021 11:57:06 at http://10.1.1.4/iktdao/node +*.pdf +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*logout* -*.mp4
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A250000%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -%X "Cookie: has_js=1; SESSba22d91f19cc61df60a2648378ce6252=Xb_H0tdapR5Q-UvlD-LnIWMv1fJZtNN75oiOmYNBt0Y" http://10.1.1.4/iktdao/node -O1 "C:\My Web Sites\text17" +*.pdf +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*logout* -*.mp4 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:58:41	Error: 	"Not Found" (404) at link 10.1.1.4/iktdao/www.iktcds.org.tw (from 10.1.1.4/iktdao/node)
+12:37:48	Error: 	"Not Found" (404) at link 10.1.1.4/iktdao/node/www.iktcds.org.tw (from 10.1.1.4/iktdao/node/52)
+13:02:12	Error: 	"Not Found" (404) at link 10.1.1.4/iktdao/taxonomy/term/www.iktcds.org.tw (from 10.1.1.4/iktdao/taxonomy/term/4625)
+13:18:48	Error: 	"Not Found" (404) at link 10.1.1.4/iktdao/user/www.iktcds.org.tw (from 10.1.1.4/iktdao/user/254)
+13:18:50	Error: 	"Not Found" (404) at link 10.1.1.4/iktdao/tracker/www.iktcds.org.tw (from 10.1.1.4/iktdao/tracker/254)
+14:00:24	Error: 	"Not Found" (404) at link 10.1.1.4/iktdao/filter/www.iktcds.org.tw (from 10.1.1.4/iktdao/filter/tips)
+18:12:46	Warning: 	Retry after error -2 (Receive Time Out) at link 10.1.1.4/iktdao/sites/default/files/19680809010401_原始掃瞄檔.pdf (from 10.1.1.4/iktdao/node/2750)
+18:13:38	Warning: 	Retry after error -2 (Receive Time Out) at link 10.1.1.4/iktdao/sites/default/files/20090523030201.pdf (from 10.1.1.4/iktdao/node/3767)
+18:13:38	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/taxonomy/term/3685 (from 10.1.1.4/iktdao/node/3767)
+18:13:40	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/sites/default/files/19850727030401_0.pdf (from 10.1.1.4/iktdao/node/3208)
+18:13:40	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/sites/default/files/19850727030401_原始掃描檔.pdf (from 10.1.1.4/iktdao/node/3208)
+18:13:50	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/taxonomy/term/3135 (from 10.1.1.4/iktdao/node/3208)
+18:13:51	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/node/2617 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=157)
+18:13:53	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/node/2415 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=157)
+18:13:54	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/node/2491 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=157)
+18:13:56	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/node/2239 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=157)
+18:13:57	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/node/2114 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=157)
+18:13:59	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=153 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=157)
+18:14:01	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=154 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=157)
+18:14:01	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=155 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=157)
+18:14:02	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/node/2454 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=158)
+18:14:03	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/node/3501 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=158)
+18:14:03	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/node/3447 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=158)
+18:14:04	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/node/3244 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=158)
+18:14:05	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/node/866 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=159)
+18:14:06	Warning: 	Retry after error -4 (Connect Error) at link 10.1.1.4/iktdao/node/1902 (from 10.1.1.4/iktdao/tracker?order=comment_count&sort=desc&page=159)
+18:38:50	Error: 	Unable to save file C:/My Web Sites/text17/10.1.1.4/iktdao/taxonomy/term/3685: Permission denied
+18:38:51	Error: 	Unable to save file C:/My Web Sites/text17/10.1.1.4/iktdao/taxonomy/term/3135: Permission denied
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 hours 27 minutes 3 seconds : 22689 links scanned, 22662 files written (6982481269 bytes overall), 22662 files updated [6992271207 bytes received at 229835 bytes/sec]
+(8 errors, 20 warnings, 0 messages)

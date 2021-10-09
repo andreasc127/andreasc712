@@ -1,0 +1,8 @@
+-qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A250000%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -%X "Cookie: has_js=1; SESSba22d91f19cc61df60a2648378ce6252=Xb_H0tdapR5Q-UvlD-LnIWMv1fJZtNN75oiOmYNBt0Y" http://10.1.1.4/iktdao/node -O1 "C:\My Web Sites\text17" +*.pdf +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*logout* -*.mp4
+File generated automatically on Wed, 29 Sep 2021 11:57:06, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

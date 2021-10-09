@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+10.1.1.4	TRUE	/	FALSE	1999999999	has_js	1
+10.1.1.4	TRUE	/	FALSE	1999999999	SESSba22d91f19cc61df60a2648378ce6252	Xb_H0tdapR5Q-UvlD-LnIWMv1fJZtNN75oiOmYNBt0Y
+
