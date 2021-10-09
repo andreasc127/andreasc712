@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://10.1.1.4/iktdao"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>一貫道崇德學院數位典藏系統 - fycd 20140825020504</title>
+ <link>http://10.1.1.4/iktdao/taxonomy/term/1180</link>
+ <description></description>
+ <language>zh-hant</language>
+<item>
+ <title>發一崇德聖訓</title>
+ <link>http://10.1.1.4/iktdao/node/1242</link>
+ <description>&lt;div class=&quot;field field-name-field-files field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;files:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/iktdao/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://10.1.1.4/iktdao/sites/default/files/20140825020504_%E5%BD%B0%E5%8C%96%E6%BD%BD%E7%8E%84%E4%BD%9B%E5%A0%82%E6%B3%95%E6%9C%83%E8%A8%93%E6%96%87.pdf&quot; type=&quot;application/pdf; length=527739&quot;&gt;20140825020504_彰化潽玄佛堂法會訓文.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/iktdao/taxonomy/term/1180&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;fycd 20140825020504&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Body:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 13 Jul 2017 10:13:17 +0000</pubDate>
+ <dc:creator>a4sizes</dc:creator>
+ <guid isPermaLink="false">1242 at http://10.1.1.4/iktdao</guid>
+ <comments>http://10.1.1.4/iktdao/node/1242#comments</comments>
+</item>
+</channel>
+</rss>

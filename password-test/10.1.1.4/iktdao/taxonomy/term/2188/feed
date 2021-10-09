@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://10.1.1.4/iktdao"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>一貫道崇德學院數位典藏系統 - fycd 19971011040601</title>
+ <link>http://10.1.1.4/iktdao/taxonomy/term/2188</link>
+ <description></description>
+ <language>zh-hant</language>
+<item>
+ <title>發一崇德聖訓-克念作聖</title>
+ <link>http://10.1.1.4/iktdao/node/2264</link>
+ <description>&lt;div class=&quot;field field-name-field-files field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;files:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/iktdao/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://10.1.1.4/iktdao/sites/default/files/19971011040601_%E5%85%8B%E5%BF%B5%E4%BD%9C%E8%81%96.pdf&quot; type=&quot;application/pdf; length=3257434&quot;&gt;19971011040601_克念作聖.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/iktdao/taxonomy/term/2188&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;fycd 19971011040601&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Aug 2017 04:46:02 +0000</pubDate>
+ <dc:creator>keyin_ethel</dc:creator>
+ <guid isPermaLink="false">2264 at http://10.1.1.4/iktdao</guid>
+ <comments>http://10.1.1.4/iktdao/node/2264#comments</comments>
+</item>
+</channel>
+</rss>
